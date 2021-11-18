@@ -1,0 +1,10 @@
+Package: N0
+Type: Package
+Title: eliminate zeros from matrices    
+Version: 0.1.0
+Author: Deebee
+Maintainer: bratcherderek@gmail.com
+Description: Simple data cleaning by way of eliminating empty rows and columns 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
